@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IrynaPet/goit-react-hw-02-feedback/static/css/main.176e2680.css",
+    "main.js": "/IrynaPet/goit-react-hw-02-feedback/static/js/main.034a5757.js",
+    "index.html": "/IrynaPet/goit-react-hw-02-feedback/index.html",
+    "main.176e2680.css.map": "/IrynaPet/goit-react-hw-02-feedback/static/css/main.176e2680.css.map",
+    "main.034a5757.js.map": "/IrynaPet/goit-react-hw-02-feedback/static/js/main.034a5757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176e2680.css",
+    "static/js/main.034a5757.js"
+  ]
+}
